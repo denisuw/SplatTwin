@@ -113,7 +113,7 @@ splattwin/
 │   ├── papers/             # Drafts and publications
 │   ├── figures/            # Diagrams and illustrations
 │
-├── notebooks/              # Analysis notebooks
+├── outputs/                # Q1 Journal Paper and ISRPS Congress 2026 Papers  
 ├── scripts/                # Processing scripts
 └── README.md
 ```

@@ -1,5 +1,0 @@
-# Documentation
-
-- reports
-- papers
-- figures
